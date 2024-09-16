@@ -40,3 +40,11 @@ git clone git@github.com:kyleget/learn-ai.git
 pyenv virtualenv 3.12.0 learn-ai
 poetry install
 ```
+
+## Running the Script
+
+Currently I am using Replicate to test some AI models.
+
+```bash
+python src/main.py
+```
